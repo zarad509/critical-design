@@ -7,3 +7,9 @@
 body {
 	background-color: purple;
 }
+
+.container {
+	width: 500px;
+	height: 500px auto;
+	text-align: center;
+}
