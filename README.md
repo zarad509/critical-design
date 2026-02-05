@@ -1,5 +1,5 @@
 # Website Template
-
+critical-design for ATCM 2335 - Internet Studio I
 Fork and use this template repo (a.k.a. "boilerplate") for any web project
 
 ## Use this repo
